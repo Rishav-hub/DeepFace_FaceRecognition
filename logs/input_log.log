@@ -1289,3 +1289,24 @@ urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object
 [2021-11-27 23:32:00,322: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:00] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
 [2021-11-27 23:32:00,651: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:00] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
 [2021-11-27 23:32:02,915: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 23:32:17,182: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 23:32:17,233: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 23:32:17,852: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 23:32:19,642: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:19] "GET / HTTP/1.1" 200 -
+[2021-11-27 23:32:19,917: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 23:32:23,714: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:23] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 23:32:23,842: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 23:32:28,033: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-27 23:32:28,055: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:28] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-27 23:32:28,199: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:28] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-27 23:32:28,200: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:28] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-27 23:32:28,248: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:28] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 23:32:28,388: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:28] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-27 23:32:28,595: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:28] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 23:37:25,119: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\clientApp.py', reloading
+[2021-11-27 23:37:25,143: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_embeddings\\generate_embeddings.py', reloading
+[2021-11-27 23:37:25,159: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_features\\extract_attributes.py', reloading
+[2021-11-27 23:37:25,175: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_predictor\\generate_prediction.py', reloading
+[2021-11-27 23:37:25,196: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_simmilarity\\retrieve_embeddings.py', reloading
+[2021-11-27 23:37:25,200: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_simmilarity\\store_embeddings.py', reloading
+[2021-11-27 23:37:25,295: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\utils\\all_utils.py', reloading
