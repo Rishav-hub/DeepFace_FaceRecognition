@@ -1310,3 +1310,9 @@ urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object
 [2021-11-27 23:37:25,196: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_simmilarity\\retrieve_embeddings.py', reloading
 [2021-11-27 23:37:25,200: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_simmilarity\\store_embeddings.py', reloading
 [2021-11-27 23:37:25,295: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\utils\\all_utils.py', reloading
+[2021-11-27 23:38:07,845: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 23:38:25,961: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 23:38:26,067: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 23:38:27,142: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 23:38:28,438: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:38:28] "GET / HTTP/1.1" 200 -
+[2021-11-27 23:38:28,538: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:38:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
