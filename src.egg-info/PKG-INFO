@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.2
+Summary: A small package for dvc ml pipeline Loan Prediction
+Home-page: UNKNOWN
+Author: Rishav-hub
+Author-email: 9930046@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

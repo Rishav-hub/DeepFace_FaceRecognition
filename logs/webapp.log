@@ -1,0 +1,13 @@
+[2021-11-27 19:45:03,522: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 19:45:08,493: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 19:45:08,573: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 19:45:08,910: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 19:45:10,462: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:45:10] "[33mGET / HTTP/1.1[0m" 404 -
+[2021-11-27 19:45:11,927: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:45:11] "[33mGET / HTTP/1.1[0m" 404 -
+[2021-11-27 19:45:14,339: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:45:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2021-11-27 19:45:20,315: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:45:20] "[33mGET /train HTTP/1.1[0m" 404 -
+[2021-11-27 19:45:24,181: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:45:24] "[33mGET /train HTTP/1.1[0m" 404 -
+[2021-11-27 19:45:29,399: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:45:29] "GET /login HTTP/1.1" 200 -
+[2021-11-27 19:45:29,593: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:45:29] "GET /static/css/style.css HTTP/1.1" 200 -
+[2021-11-27 19:46:04,566: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:46:04] "POST /login HTTP/1.1" 200 -
+[2021-11-27 19:46:04,750: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 19:46:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

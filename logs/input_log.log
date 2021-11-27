@@ -1,0 +1,1291 @@
+[2021-11-19 22:44:26,043: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 22:44:26,049: ERROR: clientApp]: Error in Stage one
+[2021-11-19 22:44:26,049: ERROR: clientApp]: 'module' object is not callable
+[2021-11-19 22:45:26,491: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 22:45:26,501: ERROR: clientApp]: Error in Stage one
+[2021-11-19 22:45:26,503: ERROR: clientApp]: 'module' object is not callable
+[2021-11-19 22:52:12,052: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 22:52:12,058: ERROR: clientApp]: Error in Stage one
+[2021-11-19 22:52:12,059: ERROR: clientApp]: 'Namespace' object is not subscriptable
+[2021-11-19 23:01:30,455: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 23:01:35,732: ERROR: clientApp]: Error in Stage one
+[2021-11-19 23:01:35,733: ERROR: clientApp]: 'Namespace' object is not subscriptable
+[2021-11-19 23:03:10,982: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 23:03:16,562: ERROR: clientApp]: Error in Stage one
+[2021-11-19 23:03:16,562: ERROR: clientApp]: 'Namespace' object is not subscriptable
+[2021-11-19 23:04:43,254: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 23:04:49,097: ERROR: clientApp]: Error in Stage one
+[2021-11-19 23:04:49,097: ERROR: clientApp]: 'Namespace' object is not subscriptable
+[2021-11-19 23:07:11,875: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 23:07:29,082: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:31,786: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:34,064: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:34,200: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:36,033: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:36,173: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:38,027: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:38,198: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:40,359: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:40,491: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:42,387: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:42,519: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:44,791: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:44,912: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:46,859: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:46,980: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:49,310: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:49,441: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:51,212: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:51,336: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:53,262: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:53,463: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:55,701: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:55,836: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:07:57,749: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:07:57,880: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:08:00,173: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:08:00,301: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:08:02,215: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:08:02,340: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:08:04,540: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:08:04,662: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:08:06,589: INFO: generate_embeddings]: >> Embedding generation started
+[2021-11-19 23:08:06,732: INFO: generate_embeddings]: Embedding generation Completed >>>>
+[2021-11-19 23:08:07,132: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-19 23:38:06,974: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 23:39:18,305: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-19 23:41:32,895: INFO: clientApp]: >>> Stage one Started
+[2021-11-19 23:42:18,840: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-20 10:55:18,818: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 10:55:18,826: ERROR: clientApp]: Error in Stage one
+[2021-11-20 10:55:18,826: ERROR: clientApp]: 'dict' object has no attribute 'config'
+[2021-11-20 10:57:08,034: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 10:57:08,034: ERROR: clientApp]: Error in Stage one
+[2021-11-20 10:57:08,034: ERROR: clientApp]: 'dict' object has no attribute 'config'
+[2021-11-20 10:59:14,063: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 10:59:14,115: ERROR: clientApp]: Error in Stage one
+[2021-11-20 10:59:14,115: ERROR: clientApp]: 'dict' object has no attribute 'detector_backend'
+[2021-11-20 11:03:55,080: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:03:55,088: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:03:55,088: ERROR: clientApp]: 'dict' object has no attribute 'detector_backend'
+[2021-11-20 11:06:34,454: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:06:34,521: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:06:34,521: ERROR: clientApp]: 'dict' object has no attribute 'detector_backend'
+[2021-11-20 11:07:17,573: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:07:17,578: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:07:17,578: ERROR: clientApp]: 'dict' object has no attribute 'detector_backend'
+[2021-11-20 11:19:56,423: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:19:56,428: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:19:56,428: ERROR: clientApp]: 'dict' object has no attribute 'detector_backend'
+[2021-11-20 11:20:37,255: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:20:37,263: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:20:37,263: ERROR: clientApp]: 'dict' object has no attribute 'detector_backend'
+[2021-11-20 11:22:20,981: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:22:34,608: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:22:34,611: ERROR: clientApp]: 'dict' object has no attribute 'detector_backend'
+[2021-11-20 11:24:12,830: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:26:25,554: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 11:26:25,555: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:26:25,555: ERROR: clientApp]: expected str, bytes or os.PathLike object, not dict
+[2021-11-20 11:28:25,133: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:29:42,807: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 11:29:44,432: WARNING: base]: PUT http://localhost:9200/face_recognition [status:400 request:1.612s]
+[2021-11-20 11:29:44,433: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:29:44,433: ERROR: clientApp]: RequestError(400, 'resource_already_exists_exception', 'index [face_recognition/AWmN8VB4T7CIldaU7JKuUQ] already exists')
+[2021-11-20 11:33:15,977: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:34:00,086: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 11:34:00,175: WARNING: base]: PUT http://localhost:9200/face_recognition [status:400 request:0.084s]
+[2021-11-20 11:34:00,175: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:34:00,176: ERROR: clientApp]: RequestError(400, 'resource_already_exists_exception', 'index [face_recognition/AWmN8VB4T7CIldaU7JKuUQ] already exists')
+[2021-11-20 11:37:55,842: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:39:09,461: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 11:39:09,505: INFO: store_embeddings]: >>>> Creating index
+[2021-11-20 11:39:09,541: WARNING: base]: PUT http://localhost:9200/face_recognition [status:400 request:0.033s]
+[2021-11-20 11:39:09,542: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:39:09,542: ERROR: clientApp]: RequestError(400, 'resource_already_exists_exception', 'index [face_recognition/AWmN8VB4T7CIldaU7JKuUQ] already exists')
+[2021-11-20 11:46:53,157: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:48:24,987: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 11:48:24,994: INFO: store_embeddings]: >>>> Creating index
+[2021-11-20 11:48:24,994: INFO: store_embeddings]: Index created >>>
+[2021-11-20 11:48:25,464: INFO: base]: PUT http://localhost:9200/face_recognition/_create/0 [status:201 request:0.441s]
+[2021-11-20 11:48:25,464: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:48:25,465: ERROR: clientApp]: expected str, bytes or os.PathLike object, not dict
+[2021-11-20 11:50:34,941: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:52:29,866: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 11:52:29,866: INFO: store_embeddings]: >>>> Creating index
+[2021-11-20 11:52:29,872: INFO: store_embeddings]: Index created >>>
+[2021-11-20 11:52:30,029: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/0 [status:409 request:0.134s]
+[2021-11-20 11:52:30,029: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:52:30,029: ERROR: clientApp]: ConflictError(409, 'version_conflict_engine_exception', '[0]: version conflict, document already exists (current version [1])')
+[2021-11-20 11:54:42,082: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 11:56:04,542: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 11:56:04,546: INFO: store_embeddings]: >>>> Creating index
+[2021-11-20 11:56:04,546: INFO: store_embeddings]: Index created >>>
+[2021-11-20 11:56:04,547: INFO: store_embeddings]: Index number: 0
+[2021-11-20 11:56:04,603: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/0 [status:409 request:0.055s]
+[2021-11-20 11:56:04,603: ERROR: clientApp]: Error in Stage one
+[2021-11-20 11:56:04,603: ERROR: clientApp]: ConflictError(409, 'version_conflict_engine_exception', '[0]: version conflict, document already exists (current version [1])')
+[2021-11-20 12:10:02,780: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 12:11:11,374: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 12:11:11,377: INFO: store_embeddings]: >>>> Creating index
+[2021-11-20 12:11:11,378: INFO: store_embeddings]: Index created >>>
+[2021-11-20 12:11:11,378: INFO: store_embeddings]: Index number: 0
+[2021-11-20 12:11:11,466: INFO: base]: PUT http://localhost:9200/face_recognition/_create/0 [status:201 request:0.084s]
+[2021-11-20 12:11:11,468: INFO: generate_embeddings]: Embeddings Stored >>>
+[2021-11-20 12:11:11,470: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-20 12:37:07,814: INFO: clientApp]: >>> Stage one Started
+[2021-11-20 12:38:43,455: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-20 12:38:43,473: INFO: store_embeddings]: >>>> Creating index
+[2021-11-20 12:38:43,474: INFO: store_embeddings]: Index created >>>
+[2021-11-20 12:38:43,474: INFO: store_embeddings]: Index number: 0
+[2021-11-20 12:38:43,673: INFO: base]: PUT http://localhost:9200/face_recognition/_create/0 [status:201 request:0.199s]
+[2021-11-20 12:38:43,675: INFO: generate_embeddings]: Embeddings Stored >>>
+[2021-11-20 12:38:43,677: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-20 23:50:19,400: INFO: clientApp]: >>> Stage two Started
+[2021-11-20 23:50:36,255: INFO: extract_attributes]: Emotion model loaded
+[2021-11-20 23:50:54,864: INFO: extract_attributes]: Age model loaded
+[2021-11-20 23:51:07,009: INFO: extract_attributes]: Gender model loaded
+[2021-11-20 23:51:31,445: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-20 23:58:12,687: INFO: clientApp]: >>> Stage two Started
+[2021-11-20 23:58:30,620: INFO: extract_attributes]: Emotion model loaded
+[2021-11-20 23:58:45,325: INFO: extract_attributes]: Age model loaded
+[2021-11-20 23:59:01,148: INFO: extract_attributes]: Gender model loaded
+[2021-11-20 23:59:47,560: INFO: extract_attributes]: Total faces: 10
+[2021-11-20 23:59:47,989: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-21 00:03:27,788: INFO: clientApp]: >>> Stage two Started
+[2021-11-21 00:03:38,799: INFO: extract_attributes]: Emotion model loaded
+[2021-11-21 00:03:45,681: INFO: extract_attributes]: Age model loaded
+[2021-11-21 00:03:52,136: INFO: extract_attributes]: Gender model loaded
+[2021-11-21 00:04:28,848: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-21 00:04:57,852: INFO: clientApp]: >>> Stage two Started
+[2021-11-21 00:05:05,362: INFO: extract_attributes]: Emotion model loaded
+[2021-11-21 00:05:09,219: INFO: extract_attributes]: Age model loaded
+[2021-11-21 00:05:13,327: INFO: extract_attributes]: Gender model loaded
+[2021-11-21 00:05:32,339: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-21 00:06:11,117: INFO: clientApp]: >>> Stage two Started
+[2021-11-21 00:06:20,851: INFO: extract_attributes]: Emotion model loaded
+[2021-11-21 00:06:24,751: INFO: extract_attributes]: Age model loaded
+[2021-11-21 00:06:29,805: INFO: extract_attributes]: Gender model loaded
+[2021-11-21 00:06:40,545: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-21 00:14:39,808: INFO: clientApp]: >>> Stage two Started
+[2021-11-21 00:14:53,978: INFO: extract_attributes]: Emotion model loaded
+[2021-11-21 00:15:02,692: INFO: extract_attributes]: Age model loaded
+[2021-11-21 00:15:12,384: INFO: extract_attributes]: Gender model loaded
+[2021-11-21 00:16:12,846: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-21 00:47:28,177: INFO: clientApp]: >>> Stage one Started
+[2021-11-21 00:48:50,517: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-21 00:48:50,524: INFO: store_embeddings]: >>>> Creating index
+[2021-11-21 00:48:50,526: INFO: store_embeddings]: Index created >>>
+[2021-11-21 00:48:50,527: INFO: store_embeddings]: Index number: 0
+[2021-11-21 00:48:51,196: INFO: base]: PUT http://localhost:9200/face_recognition/_create/0 [status:201 request:0.668s]
+[2021-11-21 00:48:51,198: INFO: generate_embeddings]: Embeddings Stored >>>
+[2021-11-21 00:48:51,200: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-21 00:53:01,051: INFO: clientApp]: >>> Stage Three Started
+[2021-11-21 00:53:32,468: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:32,468: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:35,226: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:2.758s]
+[2021-11-21 00:53:35,227: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:35,604: INFO: generate_prediction]: >>>>>>Time is : 3.1534175872802734<<<<<<<<
+[2021-11-21 00:53:38,856: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:38,857: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:38,880: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.023s]
+[2021-11-21 00:53:38,880: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:38,988: INFO: generate_prediction]: >>>>>>Time is : 0.13501214981079102<<<<<<<<
+[2021-11-21 00:53:42,378: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:42,378: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:42,437: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.058s]
+[2021-11-21 00:53:42,438: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:42,454: INFO: generate_prediction]: >>>>>>Time is : 0.08098912239074707<<<<<<<<
+[2021-11-21 00:53:44,594: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:44,594: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:44,610: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-21 00:53:44,611: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:44,619: INFO: generate_prediction]: >>>>>>Time is : 0.02700209617614746<<<<<<<<
+[2021-11-21 00:53:47,124: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:47,124: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:47,143: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.018s]
+[2021-11-21 00:53:47,144: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:47,152: INFO: generate_prediction]: >>>>>>Time is : 0.03199911117553711<<<<<<<<
+[2021-11-21 00:53:49,014: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:49,014: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:49,032: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.017s]
+[2021-11-21 00:53:49,032: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:49,041: INFO: generate_prediction]: >>>>>>Time is : 0.029998064041137695<<<<<<<<
+[2021-11-21 00:53:51,118: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:51,118: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:51,135: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.016s]
+[2021-11-21 00:53:51,136: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:51,148: INFO: generate_prediction]: >>>>>>Time is : 0.03400111198425293<<<<<<<<
+[2021-11-21 00:53:53,346: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:53,346: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:53,359: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 00:53:53,360: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:53,368: INFO: generate_prediction]: >>>>>>Time is : 0.027001380920410156<<<<<<<<
+[2021-11-21 00:53:55,439: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:55,439: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:55,454: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.014s]
+[2021-11-21 00:53:55,455: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:55,462: INFO: generate_prediction]: >>>>>>Time is : 0.026997089385986328<<<<<<<<
+[2021-11-21 00:53:57,771: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:57,772: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:57,784: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 00:53:57,784: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:57,794: INFO: generate_prediction]: >>>>>>Time is : 0.026001453399658203<<<<<<<<
+[2021-11-21 00:53:59,628: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:53:59,628: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:53:59,647: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.018s]
+[2021-11-21 00:53:59,647: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:53:59,657: INFO: generate_prediction]: >>>>>>Time is : 0.03299856185913086<<<<<<<<
+[2021-11-21 00:54:02,491: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:02,491: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:02,507: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.014s]
+[2021-11-21 00:54:02,508: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:02,518: INFO: generate_prediction]: >>>>>>Time is : 0.031005382537841797<<<<<<<<
+[2021-11-21 00:54:04,999: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:05,000: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:05,028: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.028s]
+[2021-11-21 00:54:05,029: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:05,038: INFO: generate_prediction]: >>>>>>Time is : 0.0410003662109375<<<<<<<<
+[2021-11-21 00:54:07,947: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:07,947: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:07,963: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-21 00:54:07,964: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:07,972: INFO: generate_prediction]: >>>>>>Time is : 0.030001163482666016<<<<<<<<
+[2021-11-21 00:54:10,612: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:10,612: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:10,627: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.014s]
+[2021-11-21 00:54:10,628: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:10,636: INFO: generate_prediction]: >>>>>>Time is : 0.028986215591430664<<<<<<<<
+[2021-11-21 00:54:13,037: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:13,037: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:13,050: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 00:54:13,051: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:13,059: INFO: generate_prediction]: >>>>>>Time is : 0.026018381118774414<<<<<<<<
+[2021-11-21 00:54:14,945: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:14,945: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:14,977: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.031s]
+[2021-11-21 00:54:14,978: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:14,998: INFO: generate_prediction]: >>>>>>Time is : 0.05700063705444336<<<<<<<<
+[2021-11-21 00:54:17,780: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:17,781: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:17,838: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.057s]
+[2021-11-21 00:54:17,839: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:17,859: INFO: generate_prediction]: >>>>>>Time is : 0.0820004940032959<<<<<<<<
+[2021-11-21 00:54:20,005: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:20,005: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:20,019: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.013s]
+[2021-11-21 00:54:20,019: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:20,039: INFO: generate_prediction]: >>>>>>Time is : 0.03643608093261719<<<<<<<<
+[2021-11-21 00:54:22,363: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:22,363: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:22,374: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.010s]
+[2021-11-21 00:54:22,374: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:22,382: INFO: generate_prediction]: >>>>>>Time is : 0.023000001907348633<<<<<<<<
+[2021-11-21 00:54:24,246: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:24,247: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:24,257: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.009s]
+[2021-11-21 00:54:24,258: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:24,266: INFO: generate_prediction]: >>>>>>Time is : 0.023996829986572266<<<<<<<<
+[2021-11-21 00:54:26,198: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:26,198: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:26,249: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.050s]
+[2021-11-21 00:54:26,250: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:26,265: INFO: generate_prediction]: >>>>>>Time is : 0.07098579406738281<<<<<<<<
+[2021-11-21 00:54:28,457: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:28,458: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:28,469: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.011s]
+[2021-11-21 00:54:28,470: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:28,478: INFO: generate_prediction]: >>>>>>Time is : 0.02400493621826172<<<<<<<<
+[2021-11-21 00:54:30,627: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 00:54:30,627: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 00:54:30,641: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.013s]
+[2021-11-21 00:54:30,642: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 00:54:30,650: INFO: generate_prediction]: >>>>>>Time is : 0.02698493003845215<<<<<<<<
+[2021-11-21 00:54:31,031: INFO: generate_prediction]: >>> Storing Embeddings
+[2021-11-21 00:54:31,032: ERROR: clientApp]: Error in Stage Three
+[2021-11-21 00:54:31,034: ERROR: clientApp]: name 'storeEmbeddings' is not defined
+[2021-11-21 14:32:24,681: INFO: clientApp]: >>> Stage Three Started
+[2021-11-21 14:32:49,637: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:32:49,637: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:32:49,780: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.143s]
+[2021-11-21 14:32:49,781: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:32:49,781: INFO: generate_prediction]: >>>>>>Time is : 0.1558818817138672<<<<<<<<
+[2021-11-21 14:32:52,246: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:32:52,246: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:32:52,272: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.026s]
+[2021-11-21 14:32:52,272: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:32:52,273: INFO: generate_prediction]: >>>>>>Time is : 0.028853654861450195<<<<<<<<
+[2021-11-21 14:32:54,631: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:32:54,631: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:32:54,649: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.017s]
+[2021-11-21 14:32:54,650: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:32:54,650: INFO: generate_prediction]: >>>>>>Time is : 0.022708892822265625<<<<<<<<
+[2021-11-21 14:32:57,684: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:32:57,684: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:32:57,704: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.019s]
+[2021-11-21 14:32:57,704: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:32:57,704: INFO: generate_prediction]: >>>>>>Time is : 0.020972728729248047<<<<<<<<
+[2021-11-21 14:33:00,722: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:00,722: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:00,740: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.016s]
+[2021-11-21 14:33:00,741: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:00,741: INFO: generate_prediction]: >>>>>>Time is : 0.02431011199951172<<<<<<<<
+[2021-11-21 14:33:03,684: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:03,684: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:03,695: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.009s]
+[2021-11-21 14:33:03,696: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:03,696: INFO: generate_prediction]: >>>>>>Time is : 0.015047788619995117<<<<<<<<
+[2021-11-21 14:33:06,677: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:06,678: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:06,690: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 14:33:06,691: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:06,692: INFO: generate_prediction]: >>>>>>Time is : 0.017315149307250977<<<<<<<<
+[2021-11-21 14:33:09,774: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:09,774: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:09,789: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.014s]
+[2021-11-21 14:33:09,789: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:09,790: INFO: generate_prediction]: >>>>>>Time is : 0.01962590217590332<<<<<<<<
+[2021-11-21 14:33:12,766: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:12,766: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:12,780: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.014s]
+[2021-11-21 14:33:12,782: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:12,782: INFO: generate_prediction]: >>>>>>Time is : 0.016763925552368164<<<<<<<<
+[2021-11-21 14:33:15,866: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:15,866: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:15,881: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-21 14:33:15,882: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:15,882: INFO: generate_prediction]: >>>>>>Time is : 0.01844167709350586<<<<<<<<
+[2021-11-21 14:33:18,881: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:18,881: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:18,898: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-21 14:33:18,899: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:18,899: INFO: generate_prediction]: >>>>>>Time is : 0.020993709564208984<<<<<<<<
+[2021-11-21 14:33:21,929: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:21,929: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:21,953: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.023s]
+[2021-11-21 14:33:21,953: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:21,954: INFO: generate_prediction]: >>>>>>Time is : 0.024636268615722656<<<<<<<<
+[2021-11-21 14:33:25,006: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:25,006: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:25,021: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.014s]
+[2021-11-21 14:33:25,022: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:25,022: INFO: generate_prediction]: >>>>>>Time is : 0.019640207290649414<<<<<<<<
+[2021-11-21 14:33:28,069: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:28,069: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:28,081: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 14:33:28,081: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:28,082: INFO: generate_prediction]: >>>>>>Time is : 0.01748490333557129<<<<<<<<
+[2021-11-21 14:33:31,313: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:31,313: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:31,332: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.018s]
+[2021-11-21 14:33:31,333: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:31,333: INFO: generate_prediction]: >>>>>>Time is : 0.02030205726623535<<<<<<<<
+[2021-11-21 14:33:34,235: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:34,235: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:34,255: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.019s]
+[2021-11-21 14:33:34,256: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:34,256: INFO: generate_prediction]: >>>>>>Time is : 0.02517414093017578<<<<<<<<
+[2021-11-21 14:33:37,132: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:37,132: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:37,150: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.018s]
+[2021-11-21 14:33:37,150: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:37,151: INFO: generate_prediction]: >>>>>>Time is : 0.02024364471435547<<<<<<<<
+[2021-11-21 14:33:40,050: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:40,051: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:40,095: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.043s]
+[2021-11-21 14:33:40,095: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:40,096: INFO: generate_prediction]: >>>>>>Time is : 0.050002098083496094<<<<<<<<
+[2021-11-21 14:33:43,156: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:43,156: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:43,168: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 14:33:43,169: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:43,169: INFO: generate_prediction]: >>>>>>Time is : 0.01800251007080078<<<<<<<<
+[2021-11-21 14:33:46,245: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:46,246: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:46,259: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.013s]
+[2021-11-21 14:33:46,259: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:46,260: INFO: generate_prediction]: >>>>>>Time is : 0.019178152084350586<<<<<<<<
+[2021-11-21 14:33:49,257: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:49,257: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:49,309: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.050s]
+[2021-11-21 14:33:49,309: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:49,310: INFO: generate_prediction]: >>>>>>Time is : 0.05814862251281738<<<<<<<<
+[2021-11-21 14:33:52,827: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:52,827: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:52,848: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.018s]
+[2021-11-21 14:33:52,849: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:52,850: INFO: generate_prediction]: >>>>>>Time is : 0.027991056442260742<<<<<<<<
+[2021-11-21 14:33:56,011: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:56,011: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:56,029: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.016s]
+[2021-11-21 14:33:56,030: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:56,031: INFO: generate_prediction]: >>>>>>Time is : 0.024004220962524414<<<<<<<<
+[2021-11-21 14:33:58,327: INFO: retrieve_embeddings]: Index number: 1
+[2021-11-21 14:33:58,327: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:33:58,337: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.011s]
+[2021-11-21 14:33:58,337: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:33:58,338: INFO: generate_prediction]: >>>>>>Time is : 0.013628244400024414<<<<<<<<
+[2021-11-21 14:33:58,912: INFO: clientApp]: Stage Three Completed >>>>
+[2021-11-21 14:34:37,623: INFO: clientApp]: >>> Stage two Started
+[2021-11-21 14:34:49,184: INFO: extract_attributes]: Emotion model loaded
+[2021-11-21 14:34:57,665: INFO: extract_attributes]: Age model loaded
+[2021-11-21 14:35:05,134: INFO: extract_attributes]: Gender model loaded
+[2021-11-21 14:35:33,238: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-21 14:43:23,793: INFO: clientApp]: >>> Stage one Started
+[2021-11-21 14:45:24,598: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-21 14:45:24,602: INFO: store_embeddings]: >>>> Creating index
+[2021-11-21 14:45:24,602: INFO: store_embeddings]: Index created >>>
+[2021-11-21 14:45:24,602: INFO: store_embeddings]: Index number: 1
+[2021-11-21 14:45:25,066: INFO: base]: PUT http://localhost:9200/face_recognition/_create/1 [status:201 request:0.463s]
+[2021-11-21 14:45:25,067: INFO: generate_embeddings]: Embeddings Stored >>>
+[2021-11-21 14:45:25,069: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-21 14:45:59,944: INFO: clientApp]: >>> Stage two Started
+[2021-11-21 14:46:11,110: INFO: extract_attributes]: Emotion model loaded
+[2021-11-21 14:46:15,570: INFO: extract_attributes]: Age model loaded
+[2021-11-21 14:46:21,080: INFO: extract_attributes]: Gender model loaded
+[2021-11-21 14:46:35,613: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-21 14:47:15,183: INFO: clientApp]: >>> Stage Three Started
+[2021-11-21 14:47:37,950: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:47:37,950: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:47:39,431: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:1.480s]
+[2021-11-21 14:47:39,432: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:47:39,432: INFO: generate_prediction]: >>>>>>Time is : 1.5053458213806152<<<<<<<<
+[2021-11-21 14:47:42,020: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:47:42,020: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:47:42,116: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.096s]
+[2021-11-21 14:47:42,116: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:47:42,116: INFO: generate_prediction]: >>>>>>Time is : 0.09700417518615723<<<<<<<<
+[2021-11-21 14:47:46,260: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:47:46,260: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:47:46,311: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.050s]
+[2021-11-21 14:47:46,312: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:47:46,312: INFO: generate_prediction]: >>>>>>Time is : 0.05563926696777344<<<<<<<<
+[2021-11-21 14:47:50,038: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:47:50,038: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:47:50,053: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-21 14:47:50,054: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:47:50,054: INFO: generate_prediction]: >>>>>>Time is : 0.017914295196533203<<<<<<<<
+[2021-11-21 14:47:52,699: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:47:52,700: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:47:52,763: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.063s]
+[2021-11-21 14:47:52,764: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:47:52,767: INFO: generate_prediction]: >>>>>>Time is : 0.0704810619354248<<<<<<<<
+[2021-11-21 14:47:55,208: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:47:55,208: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:47:55,221: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 14:47:55,221: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:47:55,221: INFO: generate_prediction]: >>>>>>Time is : 0.014064788818359375<<<<<<<<
+[2021-11-21 14:47:57,752: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:47:57,753: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:47:57,818: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.066s]
+[2021-11-21 14:47:57,820: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:47:57,821: INFO: generate_prediction]: >>>>>>Time is : 0.06968927383422852<<<<<<<<
+[2021-11-21 14:48:00,495: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:00,495: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:00,562: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.067s]
+[2021-11-21 14:48:00,563: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:00,563: INFO: generate_prediction]: >>>>>>Time is : 0.07019233703613281<<<<<<<<
+[2021-11-21 14:48:03,181: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:03,181: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:03,192: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.011s]
+[2021-11-21 14:48:03,193: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:03,193: INFO: generate_prediction]: >>>>>>Time is : 0.014394760131835938<<<<<<<<
+[2021-11-21 14:48:05,490: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:05,490: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:05,522: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.031s]
+[2021-11-21 14:48:05,523: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:05,523: INFO: generate_prediction]: >>>>>>Time is : 0.03751420974731445<<<<<<<<
+[2021-11-21 14:48:07,923: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:07,923: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:07,999: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.075s]
+[2021-11-21 14:48:07,999: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:07,999: INFO: generate_prediction]: >>>>>>Time is : 0.07638859748840332<<<<<<<<
+[2021-11-21 14:48:10,059: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:10,060: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:10,126: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.066s]
+[2021-11-21 14:48:10,126: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:10,126: INFO: generate_prediction]: >>>>>>Time is : 0.069366455078125<<<<<<<<
+[2021-11-21 14:48:12,625: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:12,625: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:12,641: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.016s]
+[2021-11-21 14:48:12,642: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:12,642: INFO: generate_prediction]: >>>>>>Time is : 0.017664194107055664<<<<<<<<
+[2021-11-21 14:48:14,942: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:14,943: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:15,000: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.056s]
+[2021-11-21 14:48:15,000: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:15,000: INFO: generate_prediction]: >>>>>>Time is : 0.06057286262512207<<<<<<<<
+[2021-11-21 14:48:17,623: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:17,623: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:17,636: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 14:48:17,637: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:17,638: INFO: generate_prediction]: >>>>>>Time is : 0.0177614688873291<<<<<<<<
+[2021-11-21 14:48:19,748: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:19,748: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:19,761: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.011s]
+[2021-11-21 14:48:19,761: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:19,761: INFO: generate_prediction]: >>>>>>Time is : 0.014327526092529297<<<<<<<<
+[2021-11-21 14:48:21,885: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:21,886: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:21,897: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.011s]
+[2021-11-21 14:48:21,897: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:21,898: INFO: generate_prediction]: >>>>>>Time is : 0.013998031616210938<<<<<<<<
+[2021-11-21 14:48:23,918: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:23,918: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:23,940: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.020s]
+[2021-11-21 14:48:23,940: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:23,940: INFO: generate_prediction]: >>>>>>Time is : 0.025424957275390625<<<<<<<<
+[2021-11-21 14:48:26,064: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:26,064: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:26,080: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-21 14:48:26,081: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:26,081: INFO: generate_prediction]: >>>>>>Time is : 0.02158951759338379<<<<<<<<
+[2021-11-21 14:48:28,207: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:28,207: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:28,220: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 14:48:28,221: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:28,221: INFO: generate_prediction]: >>>>>>Time is : 0.015238761901855469<<<<<<<<
+[2021-11-21 14:48:30,451: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:30,451: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:30,515: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.064s]
+[2021-11-21 14:48:30,515: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:30,515: INFO: generate_prediction]: >>>>>>Time is : 0.06544232368469238<<<<<<<<
+[2021-11-21 14:48:32,916: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:32,916: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:32,979: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.063s]
+[2021-11-21 14:48:32,983: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:32,984: INFO: generate_prediction]: >>>>>>Time is : 0.07015824317932129<<<<<<<<
+[2021-11-21 14:48:35,791: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:35,791: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:35,838: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.046s]
+[2021-11-21 14:48:35,839: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:35,840: INFO: generate_prediction]: >>>>>>Time is : 0.05226254463195801<<<<<<<<
+[2021-11-21 14:48:38,244: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:38,244: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:38,261: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.016s]
+[2021-11-21 14:48:38,261: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:38,261: INFO: generate_prediction]: >>>>>>Time is : 0.01852107048034668<<<<<<<<
+[2021-11-21 14:48:40,443: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:40,443: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:40,531: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.088s]
+[2021-11-21 14:48:40,539: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:40,539: INFO: generate_prediction]: >>>>>>Time is : 0.09710001945495605<<<<<<<<
+[2021-11-21 14:48:42,958: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:42,958: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:42,968: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.009s]
+[2021-11-21 14:48:42,969: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:42,969: INFO: generate_prediction]: >>>>>>Time is : 0.014127016067504883<<<<<<<<
+[2021-11-21 14:48:45,186: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:45,186: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:45,198: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.011s]
+[2021-11-21 14:48:45,199: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:45,199: INFO: generate_prediction]: >>>>>>Time is : 0.015996932983398438<<<<<<<<
+[2021-11-21 14:48:47,577: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:47,577: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:47,592: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-21 14:48:47,593: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:47,594: INFO: generate_prediction]: >>>>>>Time is : 0.019162893295288086<<<<<<<<
+[2021-11-21 14:48:50,169: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:50,169: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:50,227: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.058s]
+[2021-11-21 14:48:50,227: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:50,227: INFO: generate_prediction]: >>>>>>Time is : 0.060506582260131836<<<<<<<<
+[2021-11-21 14:48:52,782: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:52,782: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:52,793: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.010s]
+[2021-11-21 14:48:52,794: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:52,794: INFO: generate_prediction]: >>>>>>Time is : 0.015311956405639648<<<<<<<<
+[2021-11-21 14:48:55,132: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:55,132: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:55,179: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.046s]
+[2021-11-21 14:48:55,180: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:55,180: INFO: generate_prediction]: >>>>>>Time is : 0.05228281021118164<<<<<<<<
+[2021-11-21 14:48:57,711: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:57,712: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:57,770: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.057s]
+[2021-11-21 14:48:57,770: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:57,771: INFO: generate_prediction]: >>>>>>Time is : 0.0628964900970459<<<<<<<<
+[2021-11-21 14:48:59,897: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:48:59,897: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:48:59,913: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-21 14:48:59,914: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:48:59,914: INFO: generate_prediction]: >>>>>>Time is : 0.018911123275756836<<<<<<<<
+[2021-11-21 14:49:02,229: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:49:02,229: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:49:02,250: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.021s]
+[2021-11-21 14:49:02,251: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:49:02,251: INFO: generate_prediction]: >>>>>>Time is : 0.02364945411682129<<<<<<<<
+[2021-11-21 14:49:04,720: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:49:04,720: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:49:04,731: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.010s]
+[2021-11-21 14:49:04,731: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:49:04,732: INFO: generate_prediction]: >>>>>>Time is : 0.013957500457763672<<<<<<<<
+[2021-11-21 14:49:07,382: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:49:07,382: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:49:07,446: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.064s]
+[2021-11-21 14:49:07,446: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:49:07,451: INFO: generate_prediction]: >>>>>>Time is : 0.07075715065002441<<<<<<<<
+[2021-11-21 14:49:10,029: INFO: retrieve_embeddings]: Index number: 2
+[2021-11-21 14:49:10,029: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-21 14:49:10,042: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-21 14:49:10,043: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-21 14:49:10,043: INFO: generate_prediction]: >>>>>>Time is : 0.016209840774536133<<<<<<<<
+[2021-11-21 14:49:10,524: INFO: clientApp]: Stage Three Completed >>>>
+[2021-11-21 14:49:32,406: INFO: clientApp]: >>> Stage two Started
+[2021-11-21 14:49:42,683: INFO: extract_attributes]: Emotion model loaded
+[2021-11-21 14:49:46,637: INFO: extract_attributes]: Age model loaded
+[2021-11-21 14:49:50,988: INFO: extract_attributes]: Gender model loaded
+[2021-11-21 14:50:04,372: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-25 20:34:59,744: INFO: clientApp]: >>> Stage one Started
+[2021-11-25 20:36:49,615: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-25 20:36:49,629: INFO: store_embeddings]: >>>> Creating index
+[2021-11-25 20:36:49,630: INFO: store_embeddings]: Index created >>>
+[2021-11-25 20:36:49,630: INFO: store_embeddings]: Index number: 2
+[2021-11-25 20:36:54,009: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/2 [status:N/A request:4.377s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002BB55DBA808>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-11-25 20:36:58,546: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/2 [status:N/A request:4.081s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002BB55DBAF88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-11-25 20:37:02,694: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/2 [status:N/A request:4.137s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002BB4FC18208>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-11-25 20:37:06,972: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/2 [status:N/A request:4.271s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002BB55DA18C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-11-25 20:37:06,976: ERROR: clientApp]: Error in Stage one
+[2021-11-25 20:37:06,980: ERROR: clientApp]: ConnectionError(<urllib3.connection.HTTPConnection object at 0x000002BB55DA18C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it) caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x000002BB55DA18C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it)
+[2021-11-25 20:42:30,261: INFO: clientApp]: >>> Stage one Started
+[2021-11-25 20:44:14,518: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-25 20:44:14,528: INFO: store_embeddings]: >>>> Creating index
+[2021-11-25 20:44:14,529: INFO: store_embeddings]: Index created >>>
+[2021-11-25 20:44:14,529: INFO: store_embeddings]: Index number: 2
+[2021-11-25 20:44:14,771: INFO: base]: PUT http://localhost:9200/face_recognition/_create/2 [status:201 request:0.238s]
+[2021-11-25 20:44:14,772: INFO: generate_embeddings]: Embeddings Stored >>>
+[2021-11-25 20:44:14,774: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-25 20:51:11,840: INFO: clientApp]: >>> Stage one Started
+[2021-11-25 20:54:57,999: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-25 20:54:58,015: INFO: store_embeddings]: >>>> Creating index
+[2021-11-25 20:54:58,016: INFO: store_embeddings]: Index created >>>
+[2021-11-25 20:54:58,017: INFO: store_embeddings]: Index number: 3
+[2021-11-25 20:54:58,132: INFO: base]: PUT http://localhost:9200/face_recognition/_create/3 [status:201 request:0.113s]
+[2021-11-25 20:54:58,134: INFO: generate_embeddings]: Embeddings Stored >>>
+[2021-11-25 20:54:58,136: INFO: clientApp]: Stage one Completed >>>>
+[2021-11-25 20:56:07,081: INFO: clientApp]: >>> Stage two Started
+[2021-11-25 20:56:22,543: INFO: extract_attributes]: Emotion model loaded
+[2021-11-25 20:56:33,985: INFO: extract_attributes]: Age model loaded
+[2021-11-25 20:56:39,914: INFO: extract_attributes]: Gender model loaded
+[2021-11-25 20:57:35,324: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-25 20:59:17,643: INFO: clientApp]: >>> Stage Three Started
+[2021-11-25 20:59:47,940: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 20:59:47,940: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 20:59:49,688: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:1.747s]
+[2021-11-25 20:59:49,689: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 20:59:49,689: INFO: generate_prediction]: >>>>>>Time is : 7.631035327911377<<<<<<<<
+[2021-11-25 20:59:53,367: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 20:59:53,368: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 20:59:53,450: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.080s]
+[2021-11-25 20:59:53,451: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 20:59:53,451: INFO: generate_prediction]: >>>>>>Time is : 0.28946781158447266<<<<<<<<
+[2021-11-25 20:59:57,338: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 20:59:57,338: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 20:59:57,419: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.080s]
+[2021-11-25 20:59:57,420: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 20:59:57,421: INFO: generate_prediction]: >>>>>>Time is : 0.2673299312591553<<<<<<<<
+[2021-11-25 21:00:00,660: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:00,660: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:00,735: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.073s]
+[2021-11-25 21:00:00,737: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:00,737: INFO: generate_prediction]: >>>>>>Time is : 0.23683619499206543<<<<<<<<
+[2021-11-25 21:00:03,629: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:03,629: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:03,645: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.014s]
+[2021-11-25 21:00:03,646: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:03,646: INFO: generate_prediction]: >>>>>>Time is : 0.15100312232971191<<<<<<<<
+[2021-11-25 21:00:06,192: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:06,193: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:06,261: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.066s]
+[2021-11-25 21:00:06,262: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:06,262: INFO: generate_prediction]: >>>>>>Time is : 0.2208106517791748<<<<<<<<
+[2021-11-25 21:00:08,877: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:08,877: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:08,893: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.015s]
+[2021-11-25 21:00:08,894: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:08,894: INFO: generate_prediction]: >>>>>>Time is : 0.190748929977417<<<<<<<<
+[2021-11-25 21:00:12,515: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:12,515: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:12,562: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.046s]
+[2021-11-25 21:00:12,564: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:12,564: INFO: generate_prediction]: >>>>>>Time is : 0.28409385681152344<<<<<<<<
+[2021-11-25 21:00:16,423: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:16,423: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:16,485: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.062s]
+[2021-11-25 21:00:16,487: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:16,488: INFO: generate_prediction]: >>>>>>Time is : 0.3105497360229492<<<<<<<<
+[2021-11-25 21:00:19,888: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:19,888: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:19,923: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.033s]
+[2021-11-25 21:00:19,925: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:19,926: INFO: generate_prediction]: >>>>>>Time is : 0.2470567226409912<<<<<<<<
+[2021-11-25 21:00:23,521: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:23,521: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:23,601: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.080s]
+[2021-11-25 21:00:23,606: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:23,608: INFO: generate_prediction]: >>>>>>Time is : 0.29966259002685547<<<<<<<<
+[2021-11-25 21:00:27,551: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:27,551: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:27,570: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.019s]
+[2021-11-25 21:00:27,572: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:27,572: INFO: generate_prediction]: >>>>>>Time is : 0.2524106502532959<<<<<<<<
+[2021-11-25 21:00:30,911: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:30,911: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:30,939: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.027s]
+[2021-11-25 21:00:30,940: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:30,941: INFO: generate_prediction]: >>>>>>Time is : 0.2567629814147949<<<<<<<<
+[2021-11-25 21:00:34,992: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:34,992: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:35,133: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.139s]
+[2021-11-25 21:00:35,138: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:35,139: INFO: generate_prediction]: >>>>>>Time is : 0.36315321922302246<<<<<<<<
+[2021-11-25 21:00:38,492: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:38,492: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:38,513: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.021s]
+[2021-11-25 21:00:38,515: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:38,515: INFO: generate_prediction]: >>>>>>Time is : 0.23807120323181152<<<<<<<<
+[2021-11-25 21:00:42,136: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:42,136: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:42,198: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.061s]
+[2021-11-25 21:00:42,200: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:42,200: INFO: generate_prediction]: >>>>>>Time is : 0.2712385654449463<<<<<<<<
+[2021-11-25 21:00:45,734: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:45,734: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:45,793: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.060s]
+[2021-11-25 21:00:45,795: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:45,795: INFO: generate_prediction]: >>>>>>Time is : 0.24857258796691895<<<<<<<<
+[2021-11-25 21:00:50,291: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:50,292: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:50,307: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.014s]
+[2021-11-25 21:00:50,308: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:50,309: INFO: generate_prediction]: >>>>>>Time is : 0.21598577499389648<<<<<<<<
+[2021-11-25 21:00:54,201: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:54,202: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:54,316: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.112s]
+[2021-11-25 21:00:54,318: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:54,319: INFO: generate_prediction]: >>>>>>Time is : 0.3999350070953369<<<<<<<<
+[2021-11-25 21:00:59,288: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:00:59,288: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:00:59,310: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.020s]
+[2021-11-25 21:00:59,311: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:00:59,312: INFO: generate_prediction]: >>>>>>Time is : 0.21171998977661133<<<<<<<<
+[2021-11-25 21:01:05,949: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:05,950: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:05,969: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.018s]
+[2021-11-25 21:01:05,971: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:05,972: INFO: generate_prediction]: >>>>>>Time is : 0.26366615295410156<<<<<<<<
+[2021-11-25 21:01:10,599: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:10,600: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:10,653: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.053s]
+[2021-11-25 21:01:10,654: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:10,655: INFO: generate_prediction]: >>>>>>Time is : 0.2741434574127197<<<<<<<<
+[2021-11-25 21:01:14,565: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:14,565: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:14,583: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.017s]
+[2021-11-25 21:01:14,585: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:14,585: INFO: generate_prediction]: >>>>>>Time is : 0.21099495887756348<<<<<<<<
+[2021-11-25 21:01:17,942: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:17,942: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:17,961: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.017s]
+[2021-11-25 21:01:17,963: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:17,963: INFO: generate_prediction]: >>>>>>Time is : 0.3993799686431885<<<<<<<<
+[2021-11-25 21:01:22,174: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:22,175: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:22,193: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.018s]
+[2021-11-25 21:01:22,194: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:22,195: INFO: generate_prediction]: >>>>>>Time is : 0.21943068504333496<<<<<<<<
+[2021-11-25 21:01:25,848: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:25,848: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:25,864: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.016s]
+[2021-11-25 21:01:25,865: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:25,865: INFO: generate_prediction]: >>>>>>Time is : 0.20087027549743652<<<<<<<<
+[2021-11-25 21:01:29,426: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:29,427: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:29,439: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.011s]
+[2021-11-25 21:01:29,440: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:29,441: INFO: generate_prediction]: >>>>>>Time is : 0.24157214164733887<<<<<<<<
+[2021-11-25 21:01:33,386: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:33,386: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:33,410: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.023s]
+[2021-11-25 21:01:33,412: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:33,413: INFO: generate_prediction]: >>>>>>Time is : 0.21990036964416504<<<<<<<<
+[2021-11-25 21:01:36,285: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:36,285: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:36,311: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.024s]
+[2021-11-25 21:01:36,314: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:36,315: INFO: generate_prediction]: >>>>>>Time is : 0.1632215976715088<<<<<<<<
+[2021-11-25 21:01:39,385: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:39,387: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:39,404: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.016s]
+[2021-11-25 21:01:39,405: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:39,405: INFO: generate_prediction]: >>>>>>Time is : 0.28127551078796387<<<<<<<<
+[2021-11-25 21:01:41,755: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:41,755: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:41,770: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.013s]
+[2021-11-25 21:01:41,771: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:41,771: INFO: generate_prediction]: >>>>>>Time is : 0.15274620056152344<<<<<<<<
+[2021-11-25 21:01:44,428: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:44,428: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:44,504: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.075s]
+[2021-11-25 21:01:44,507: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:44,509: INFO: generate_prediction]: >>>>>>Time is : 0.2319650650024414<<<<<<<<
+[2021-11-25 21:01:46,668: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:46,669: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:46,690: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.020s]
+[2021-11-25 21:01:46,691: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:46,691: INFO: generate_prediction]: >>>>>>Time is : 0.1553046703338623<<<<<<<<
+[2021-11-25 21:01:49,626: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:49,627: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:49,716: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.088s]
+[2021-11-25 21:01:49,721: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:49,722: INFO: generate_prediction]: >>>>>>Time is : 0.2888205051422119<<<<<<<<
+[2021-11-25 21:01:52,240: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:52,241: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:52,314: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.072s]
+[2021-11-25 21:01:52,316: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:52,317: INFO: generate_prediction]: >>>>>>Time is : 0.27821779251098633<<<<<<<<
+[2021-11-25 21:01:55,180: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:55,180: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:55,193: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.012s]
+[2021-11-25 21:01:55,195: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:55,195: INFO: generate_prediction]: >>>>>>Time is : 0.14318466186523438<<<<<<<<
+[2021-11-25 21:01:57,838: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:01:57,839: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:01:57,885: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.046s]
+[2021-11-25 21:01:57,886: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:01:57,887: INFO: generate_prediction]: >>>>>>Time is : 0.23096203804016113<<<<<<<<
+[2021-11-25 21:02:00,781: INFO: retrieve_embeddings]: Index number: 4
+[2021-11-25 21:02:00,781: INFO: retrieve_embeddings]: >>>> Serching embeddings .......
+[2021-11-25 21:02:00,796: INFO: base]: POST http://localhost:9200/face_recognition/_search [status:200 request:0.013s]
+[2021-11-25 21:02:00,797: INFO: retrieve_embeddings]: Serching embeddings ....... >>>>
+[2021-11-25 21:02:00,797: INFO: generate_prediction]: >>>>>>Time is : 0.2154557704925537<<<<<<<<
+[2021-11-25 21:02:01,343: INFO: clientApp]: Stage Three Completed >>>>
+[2021-11-27 20:12:16,768: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 20:12:29,422: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 20:12:29,511: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 20:12:30,418: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 20:12:30,471: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:12:30] "[33mGET / HTTP/1.1[0m" 404 -
+[2021-11-27 20:12:31,811: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:12:31] "[33mGET / HTTP/1.1[0m" 404 -
+[2021-11-27 20:12:43,048: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:12:43] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 20:12:43,139: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:12:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 20:13:08,735: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:13:08] "GET /login HTTP/1.1" 200 -
+[2021-11-27 20:13:08,842: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:13:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 20:14:51,396: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:14:51] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 20:14:51,505: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:14:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 20:22:40,093: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 20:23:03,322: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 20:23:03,406: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 20:23:04,243: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 20:23:05,613: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:23:05] "GET / HTTP/1.1" 200 -
+[2021-11-27 20:23:05,702: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:23:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 20:48:39,382: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 20:48:58,453: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 20:48:58,530: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 20:48:59,611: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 20:49:00,659: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:49:00] "GET / HTTP/1.1" 200 -
+[2021-11-27 20:49:00,787: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:49:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 20:49:06,334: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:49:06] "[33mGET /signup.html HTTP/1.1[0m" 404 -
+[2021-11-27 20:49:41,021: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:49:41] "[33mGET /signup.html HTTP/1.1[0m" 404 -
+[2021-11-27 20:50:17,424: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 20:50:29,567: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 20:50:29,617: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 20:50:30,208: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 20:50:30,336: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:50:30] "GET / HTTP/1.1" 200 -
+[2021-11-27 20:50:30,403: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:50:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 20:50:32,106: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:50:32] "GET / HTTP/1.1" 200 -
+[2021-11-27 20:50:32,326: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:50:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 20:50:48,678: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:50:48] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 20:50:48,816: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:50:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 20:51:19,823: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-27 20:51:19,929: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask\\app.py', reloading
+[2021-11-27 20:51:19,963: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+[2021-11-27 20:51:20,008: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:51:20] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-27 20:51:20,158: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:51:20] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-27 20:51:20,168: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:51:20] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-27 20:51:20,192: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:51:20] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 20:51:20,349: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:51:20] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-27 20:51:20,828: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:51:20] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 20:51:21,690: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 20:51:33,836: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 20:51:33,920: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 20:51:34,600: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 20:51:36,036: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:51:36] "GET / HTTP/1.1" 200 -
+[2021-11-27 20:51:36,134: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 20:51:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:09:14,035: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 21:09:37,048: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 21:09:37,123: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 21:09:37,949: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 21:09:39,670: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:09:39] "GET / HTTP/1.1" 200 -
+[2021-11-27 21:09:39,806: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:09:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:10:26,720: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:10:26] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 21:10:26,868: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:10:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:10:52,583: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-27 21:10:52,618: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:10:52] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-27 21:10:52,898: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:10:52] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-27 21:10:52,910: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:10:52] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-27 21:10:53,069: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:10:53] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 21:10:53,329: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:10:53] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-27 21:10:54,532: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:10:54] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 21:13:32,773: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 21:13:45,929: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 21:13:45,997: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 21:13:46,902: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 21:13:48,151: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:13:48] "GET / HTTP/1.1" 200 -
+[2021-11-27 21:13:48,221: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:13:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:13:50,202: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:13:50] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 21:13:50,371: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:13:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:13:51,403: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:13:51] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 21:13:51,538: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:13:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:14:08,972: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:14:08] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 21:14:09,056: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:14:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:14:24,011: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\utils\\all_utils.py', reloading
+[2021-11-27 21:14:24,012: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\utils\\all_utils.py', reloading
+[2021-11-27 21:14:25,427: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 21:14:39,489: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 21:14:39,538: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 21:14:40,336: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 21:14:42,477: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:14:42] "GET / HTTP/1.1" 200 -
+[2021-11-27 21:14:42,592: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:14:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:14:52,603: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 21:14:52,605: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 21:14:52,606: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 21:14:52,607: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 21:14:52,607: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 21:14:52,608: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 21:14:54,162: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 21:15:08,702: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 21:15:08,831: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 21:15:09,966: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 21:15:11,141: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:15:11] "GET / HTTP/1.1" 200 -
+[2021-11-27 21:15:11,408: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:15:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:15:14,965: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_features\\extract_attributes.py', reloading
+[2021-11-27 21:15:14,966: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\face_features\\extract_attributes.py', reloading
+[2021-11-27 21:15:15,018: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\face_predictor\\generate_prediction.py', reloading
+[2021-11-27 21:15:15,019: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\face_predictor\\generate_prediction.py', reloading
+[2021-11-27 21:15:17,716: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 21:15:33,367: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 21:15:33,443: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 21:15:34,436: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 21:15:36,262: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:15:36] "GET / HTTP/1.1" 200 -
+[2021-11-27 21:16:10,244: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 21:16:28,351: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 21:16:28,407: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 21:16:29,344: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 21:16:31,183: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:16:31] "GET / HTTP/1.1" 200 -
+[2021-11-27 21:16:31,326: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:16:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:16:34,240: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:16:34] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 21:16:34,339: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:16:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:16:43,420: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:16:43] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 21:16:43,539: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:16:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:23:10,888: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 21:23:25,808: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 21:23:25,862: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 21:23:26,564: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 21:23:28,428: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:28] "GET / HTTP/1.1" 200 -
+[2021-11-27 21:23:28,715: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:23:32,125: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:32] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 21:23:32,243: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:23:42,155: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-27 21:23:42,189: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:42] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-27 21:23:42,292: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:42] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-27 21:23:42,314: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:42] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-27 21:23:42,354: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:42] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 21:23:42,533: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:42] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-27 21:23:42,815: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:23:42] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 21:41:23,406: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 21:41:39,882: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 21:41:39,945: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 21:41:40,583: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 21:41:42,268: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:42] "GET / HTTP/1.1" 200 -
+[2021-11-27 21:41:42,365: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:41:45,707: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:45] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 21:41:45,808: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 21:41:51,189: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-27 21:41:51,220: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:51] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-27 21:41:51,313: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:51] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-27 21:41:51,334: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:51] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-27 21:41:51,365: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:51] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 21:41:51,527: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:51] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-27 21:41:51,737: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:41:51] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 21:42:14,016: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 21:42:14] "GET / HTTP/1.1" 200 -
+[2021-11-27 22:10:19,165: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\clientApp.py', reloading
+[2021-11-27 22:10:19,183: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\clientApp.py', reloading
+[2021-11-27 22:10:19,183: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\clientApp.py', reloading
+[2021-11-27 22:10:19,184: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\clientApp.py', reloading
+[2021-11-27 22:10:19,185: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\clientApp.py', reloading
+[2021-11-27 22:10:19,186: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\clientApp.py', reloading
+[2021-11-27 22:10:22,443: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 22:10:54,476: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 22:11:05,676: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 22:11:05,740: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 22:11:06,267: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 22:11:06,967: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:06] "GET / HTTP/1.1" 200 -
+[2021-11-27 22:11:07,264: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 22:11:08,057: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:08] "GET / HTTP/1.1" 200 -
+[2021-11-27 22:11:08,496: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 22:11:10,875: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:10] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 22:11:11,004: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 22:11:16,752: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-27 22:11:16,765: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask\\app.py', reloading
+[2021-11-27 22:11:16,768: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+[2021-11-27 22:11:16,775: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask_cors\\decorator.py', reloading
+[2021-11-27 22:11:16,777: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:16] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-27 22:11:16,779: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask\\helpers.py', reloading
+[2021-11-27 22:11:16,872: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:16] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-27 22:11:16,882: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:16] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-27 22:11:16,921: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:16] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 22:11:17,031: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:17] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-27 22:11:17,228: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:17] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 22:11:18,589: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 22:11:31,052: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 22:11:31,122: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 22:11:31,748: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 22:11:34,004: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:34] "GET / HTTP/1.1" 200 -
+[2021-11-27 22:11:34,551: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:11:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 22:11:54,665: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 22:11:54,666: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 22:11:54,669: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 22:11:54,669: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 22:11:54,670: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 22:11:54,670: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-27 22:11:57,217: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 22:12:21,786: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 22:12:32,847: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 22:12:32,894: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 22:12:33,383: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 22:12:34,362: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:12:34] "GET / HTTP/1.1" 200 -
+[2021-11-27 22:12:34,722: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:12:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 22:12:35,376: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:12:35] "GET / HTTP/1.1" 200 -
+[2021-11-27 22:12:35,566: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:12:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 22:12:55,413: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:12:55] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 22:12:55,498: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:12:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 22:13:02,659: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-27 22:13:02,678: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:13:02] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-27 22:13:02,774: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:13:02] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-27 22:13:02,778: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:13:02] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-27 22:13:02,807: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:13:02] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 22:13:02,945: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:13:02] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-27 22:13:03,201: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 22:13:03] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 22:29:32,689: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\DeepFace.py', reloading
+[2021-11-27 22:29:32,690: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\DeepFace.py', reloading
+[2021-11-27 22:29:32,721: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\basemodels\\Facenet.py', reloading
+[2021-11-27 22:29:32,721: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\basemodels\\Facenet.py', reloading
+[2021-11-27 22:29:32,807: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\basemodels\\Boosting.py', reloading
+[2021-11-27 22:29:32,807: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\basemodels\\Boosting.py', reloading
+[2021-11-27 22:29:33,130: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\extendedmodels\\Age.py', reloading
+[2021-11-27 22:29:33,131: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\extendedmodels\\Age.py', reloading
+[2021-11-27 22:29:33,135: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\extendedmodels\\Gender.py', reloading
+[2021-11-27 22:29:33,136: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\extendedmodels\\Gender.py', reloading
+[2021-11-27 22:29:33,139: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\extendedmodels\\Race.py', reloading
+[2021-11-27 22:29:33,140: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\extendedmodels\\Race.py', reloading
+[2021-11-27 22:29:33,143: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\extendedmodels\\Emotion.py', reloading
+[2021-11-27 22:29:33,143: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\extendedmodels\\Emotion.py', reloading
+[2021-11-27 22:29:33,149: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\commons\\functions.py', reloading
+[2021-11-27 22:29:33,150: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\commons\\functions.py', reloading
+[2021-11-27 22:29:33,216: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\commons\\realtime.py', reloading
+[2021-11-27 22:29:33,216: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\commons\\realtime.py', reloading
+[2021-11-27 22:29:33,232: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\commons\\distance.py', reloading
+[2021-11-27 22:29:33,233: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\commons\\distance.py', reloading
+[2021-11-27 22:29:33,305: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\basemodels\\VGGFace.py', reloading
+[2021-11-27 22:29:33,306: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\basemodels\\VGGFace.py', reloading
+[2021-11-27 22:29:33,327: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\detectors\\FaceDetector.py', reloading
+[2021-11-27 22:29:33,328: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\detectors\\FaceDetector.py', reloading
+[2021-11-27 22:29:33,343: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\deepface\\detectors\\MtcnnWrapper.py', reloading
+[2021-11-27 22:29:33,344: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\deepface\\detectors\\MtcnnWrapper.py', reloading
+[2021-11-27 22:29:35,466: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 23:26:18,024: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 23:26:34,962: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 23:26:35,047: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 23:26:35,789: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 23:26:37,291: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:26:37] "GET / HTTP/1.1" 200 -
+[2021-11-27 23:26:37,509: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:26:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 23:26:48,364: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:26:48] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 23:26:48,486: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:26:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 23:27:03,335: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:27:03] "[33mGET /login.html HTTP/1.1[0m" 404 -
+[2021-11-27 23:30:43,744: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-27 23:30:57,157: WARNING: _internal]:  * Debugger is active!
+[2021-11-27 23:30:57,239: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-27 23:30:57,993: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-27 23:30:58,010: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:30:58] "GET / HTTP/1.1" 200 -
+[2021-11-27 23:30:58,247: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:30:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 23:30:59,953: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:30:59] "GET / HTTP/1.1" 200 -
+[2021-11-27 23:31:00,856: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:31:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 23:31:06,441: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:31:06] "GET /signup HTTP/1.1" 200 -
+[2021-11-27 23:31:06,553: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:31:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-27 23:31:08,139: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:31:08] "[33mGET /login HTTP/1.1[0m" 404 -
+[2021-11-27 23:31:59,768: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-27 23:31:59,785: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask\\app.py', reloading
+[2021-11-27 23:31:59,790: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+[2021-11-27 23:31:59,795: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask_cors\\decorator.py', reloading
+[2021-11-27 23:31:59,797: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:31:59] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-27 23:31:59,797: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask\\helpers.py', reloading
+[2021-11-27 23:31:59,938: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:31:59] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-27 23:31:59,939: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:31:59] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-27 23:32:00,225: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:00] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 23:32:00,322: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:00] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-27 23:32:00,651: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:32:00] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-27 23:32:02,915: INFO: _internal]:  * Restarting with watchdog (windowsapi)
