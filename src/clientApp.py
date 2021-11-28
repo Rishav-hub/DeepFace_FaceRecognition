@@ -12,6 +12,7 @@ log_dir = "logs"
 os.makedirs(log_dir, exist_ok=True)
 logging.basicConfig(filename=os.path.join(log_dir, 'input_log.log'), level=logging.INFO, format=logging_str,
                     filemode="a")
+
 def getFaceEmbeddings():
     """
     Function to get the face embeddings from the images in the given directory
@@ -68,22 +69,22 @@ if __name__ == '__main__':
     #     logging.error(e)
     #     raise e
     
-    # try:
-    #     logging.info(">>> Stage two Started")
-    #     getFaceFeatures()
-    #     logging.info("Stage two Completed >>>>")
-    # except Exception as e:
-    #     logging.error("Error in Stage two")
-    #     logging.error(e)
-    #     raise e
-
     try:
-        logging.info(">>> Stage Three Started")
-        getFacePrediction()
-        # print(embeddings_list)
-        logging.info("Stage Three Completed >>>>")
+        logging.info(">>> Stage two Started")
+        getFaceFeatures()
+        logging.info("Stage two Completed >>>>")
     except Exception as e:
-        logging.error("Error in Stage Three")
+        logging.error("Error in Stage two")
         logging.error(e)
         raise e
+
+    # try:
+    #     logging.info(">>> Stage Three Started")
+    #     getFacePrediction()
+    #     # print(embeddings_list)
+    #     logging.info("Stage Three Completed >>>>")
+    # except Exception as e:
+    #     logging.error("Error in Stage Three")
+    #     logging.error(e)
+    #     raise e
 

@@ -22,9 +22,16 @@ logging.basicConfig(filename=os.path.join(log_dir, 'webapp.log'), level=logging.
 app = Flask(__name__)
 CORS(app)
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['GET'])
 @cross_origin()
 def index():
+    return render_template('login.html')
+
+
+@app.route('/login', methods=['GET', 'POST'])
+@cross_origin()
+def login():
+    # print(request.method)
     if request.method == 'POST':
         try:
             USER_NAME = request.form['USER_NAME']
@@ -44,11 +51,17 @@ def index():
 
 @app.route('/signup', methods=['POST', 'GET'])
 @cross_origin()
-def register():
+def signup():
+    print(request.method)
+
     if request.method == 'POST':
+        
         try:
+            print("Inside Try")
             USER_NAME = request.form['USER_NAME']
+            print(USER_NAME)
             EMAIL_ID = request.form['EMAIL_ID']
+            print(EMAIL_ID)
             USER_PASSWORD = request.form['USER_PASSWORD']
             dict_file = {
                 'USER_NAME': USER_NAME,
@@ -57,10 +70,14 @@ def register():
             with open('config/config.yaml', 'w') as file:
                 yaml.dump(dict_file, file)
             generate = clientApp.getFaceEmbeddings()
-            return render_template('signup.html', ouput = generate)
+            
+            return render_template('signup.html', output = generate)
         except Exception as e:
+            print("Inside Except")
             logging.error(e)
     else:
+        print('Hutia_1')
+
         return render_template('signup.html')
 
 
