@@ -57,7 +57,7 @@ def getFacePrediction():
     embeddings.GenerateFacePrediction()
 
 
-if __name__ == '__main__':
+# if __name__ == '__main__':
 
     # try:
     #     logging.info(">>> Stage one Started")
@@ -69,14 +69,14 @@ if __name__ == '__main__':
     #     logging.error(e)
     #     raise e
     
-    try:
-        logging.info(">>> Stage two Started")
-        getFaceFeatures()
-        logging.info("Stage two Completed >>>>")
-    except Exception as e:
-        logging.error("Error in Stage two")
-        logging.error(e)
-        raise e
+    # try:
+    #     logging.info(">>> Stage two Started")
+    #     getFaceFeatures()
+    #     logging.info("Stage two Completed >>>>")
+    # except Exception as e:
+    #     logging.error("Error in Stage two")
+    #     logging.error(e)
+    #     raise e
 
     # try:
     #     logging.info(">>> Stage Three Started")
