@@ -42,7 +42,7 @@ def login():
             }
             with open('config/config.yaml', 'w') as file:
                 yaml.dump(dict_file, file)
-            return render_template('login.html')
+            return render_template('register.html')
         except Exception as e:
             logging.error(e)
     else:
@@ -77,6 +77,38 @@ def signup():
             logging.error(e)
     else:
         return render_template('signup.html')
+
+@app.route('/predict', methods=['GET'])
+@cross_origin()
+def predict():
+    print(request.method)
+
+    if request.method == 'GET':
+        
+        try:  
+            predict = clientApp.getFacePrediction() 
+            return render_template('register.html', output = predict)
+        except Exception as e:
+            # print("Inside Except")
+            logging.error(e)
+    else:
+        return render_template('register.html')
+
+@app.route('/features', methods=['GET', 'POST'])
+@cross_origin()
+def features():
+    print(request.method)
+
+    if request.method == 'GET':
+        
+        try:  
+            features = clientApp.getFaceFeatures() 
+            return render_template('register.html', output = features)
+        except Exception as e:
+            # print("Inside Except")
+            logging.error(e)
+    else:
+        return render_template('register.html')
 
 
 def open_browser():
