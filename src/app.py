@@ -49,7 +49,7 @@ def login():
         return render_template('login.html')
 
 
-@app.route('/signup', methods=['POST', 'GET'])
+@app.route('/signup', methods=['GET', 'POST'])
 @cross_origin()
 def signup():
     print(request.method)
@@ -76,8 +76,6 @@ def signup():
             print("Inside Except")
             logging.error(e)
     else:
-        print('Hutia_1')
-
         return render_template('signup.html')
 
 

@@ -63,7 +63,7 @@ class FaceEmbeddings:
         cv2.destroyAllWindows()
 
         embeddings_list = print_exams_average(embeddings_list)
-        print(embeddings_list)
+        # print(embeddings_list)
         print(len(embeddings_list))
         
 

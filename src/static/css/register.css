@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    block-size: 100%;
+    inline-size: 100%;
+  }
+  body {
+    min-block-size: 100%;
+    min-inline-size: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    display: grid;
+    place-content: center;
+    background-color: #7d2ae8;
+  }
+  .btn {
+    background-color: lightblue;
+    border-radius:7px;
+    height:40px;
+    width: 300px;
+  }
+  .container{
+    display:flex;
+    text-align:center;
+    justify-content:space-between;
+    min-width:300px;
+  }

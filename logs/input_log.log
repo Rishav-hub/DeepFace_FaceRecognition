@@ -1316,3 +1316,545 @@ urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object
 [2021-11-27 23:38:27,142: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
 [2021-11-27 23:38:28,438: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:38:28] "GET / HTTP/1.1" 200 -
 [2021-11-27 23:38:28,538: INFO: _internal]: 127.0.0.1 - - [27/Nov/2021 23:38:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 11:37:53,830: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 11:38:18,545: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 11:38:18,711: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 11:38:21,539: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 11:38:23,689: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:38:23] "GET / HTTP/1.1" 200 -
+[2021-11-28 11:38:24,188: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:38:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 11:38:27,273: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:38:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2021-11-28 11:38:46,749: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:38:46] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 11:38:46,888: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:38:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 11:38:48,472: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:38:48] "[33mGET /login HTTP/1.1[0m" 404 -
+[2021-11-28 11:39:36,937: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:39:36] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 11:39:37,181: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:39:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 11:39:47,815: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-28 11:39:47,908: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask\\app.py', reloading
+[2021-11-28 11:39:47,943: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+[2021-11-28 11:39:47,976: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask_cors\\decorator.py', reloading
+[2021-11-28 11:39:48,008: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask\\helpers.py', reloading
+[2021-11-28 11:39:48,011: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:39:48] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-28 11:39:48,326: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:39:48] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-28 11:39:48,437: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:39:48] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-28 11:39:48,633: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:39:48] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 11:39:48,934: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:39:48] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-28 11:39:49,319: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:39:49] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 11:39:51,010: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 11:40:22,477: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 11:40:22,928: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 11:40:24,583: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 11:40:25,701: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:40:25] "GET / HTTP/1.1" 200 -
+[2021-11-28 11:40:26,130: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:40:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 11:40:57,799: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:40:57] "GET / HTTP/1.1" 200 -
+[2021-11-28 11:40:58,144: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 11:40:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 11:58:44,242: INFO: clientApp]: >>> Stage one Started
+[2021-11-28 12:01:28,051: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-11-28 12:01:28,083: INFO: store_embeddings]: >>>> Creating index
+[2021-11-28 12:01:28,084: INFO: store_embeddings]: Index created >>>
+[2021-11-28 12:01:28,084: INFO: store_embeddings]: Index number: 4
+[2021-11-28 12:01:32,221: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/4 [status:N/A request:4.135s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000205DD0BE5C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-11-28 12:01:36,614: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/4 [status:N/A request:4.082s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000205DD03EDC8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-11-28 12:01:40,748: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/4 [status:N/A request:4.128s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000205DEA7DF88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-11-28 12:01:44,848: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/4 [status:N/A request:4.097s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000205DEA7D1C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-11-28 12:01:44,857: ERROR: clientApp]: Error in Stage one
+[2021-11-28 12:01:44,859: ERROR: clientApp]: ConnectionError(<urllib3.connection.HTTPConnection object at 0x00000205DEA7D1C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it) caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x00000205DEA7D1C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it)
+[2021-11-28 12:02:51,651: INFO: clientApp]: >>> Stage two Started
+[2021-11-28 12:03:09,104: INFO: extract_attributes]: Emotion model loaded
+[2021-11-28 12:03:21,311: INFO: extract_attributes]: Age model loaded
+[2021-11-28 12:03:36,430: INFO: extract_attributes]: Gender model loaded
+[2021-11-28 12:04:36,673: INFO: clientApp]: Stage two Completed >>>>
+[2021-11-28 12:07:31,523: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:07:50,559: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:07:50,719: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:07:52,034: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:07:53,364: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:07:53] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:07:53,520: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:07:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:07:56,720: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:07:56] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:07:56,883: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:07:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:07:59,865: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:07:59] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:08:00,098: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:08:02,908: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:02] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:08:03,007: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:08:13,546: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-28 12:08:13,580: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:13] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-28 12:08:13,710: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:13] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-28 12:08:13,723: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:13] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-28 12:08:13,753: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:13] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:08:13,903: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:13] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-28 12:08:14,274: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:08:14] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:09:23,769: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:09:23,814: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:09:23,815: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:09:23,815: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:09:23,816: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:09:23,816: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:09:23,817: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:09:23,818: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:09:25,736: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:11:08,206: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:11:28,347: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:11:28,476: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:11:29,837: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:11:31,473: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:11:31] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:11:31,696: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:11:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:12:50,270: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:12:50] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:12:50,469: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:12:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:13:00,363: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-28 12:13:00,398: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:13:00] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-28 12:13:00,543: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:13:00] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-28 12:13:00,548: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:13:00] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-28 12:13:00,606: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:13:00] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:13:00,847: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:13:00] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-28 12:13:01,204: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:13:01] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:14:44,105: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:14:44,106: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:14:44,150: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:14:44,151: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:14:44,152: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:14:44,153: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:14:46,091: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:15:34,364: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:15:53,484: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:15:53,583: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:15:54,522: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:15:55,928: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:15:55] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:15:56,132: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:15:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:16:02,518: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:16:02] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:16:02,894: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:16:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:16:44,048: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-28 12:16:44,125: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:16:44] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-28 12:16:44,346: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:16:44] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-28 12:16:44,372: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:16:44] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-28 12:16:44,499: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:16:44] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:16:44,840: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:16:44] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-28 12:16:46,204: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:16:46] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:17:25,745: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:17:25] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:17:25,848: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:17:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:18:28,246: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:18:28,252: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:18:28,253: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:18:28,257: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:18:28,257: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:18:30,227: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:20:07,527: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:20:34,563: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:20:34,874: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:20:36,403: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:20:37,796: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:20:37] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:20:38,354: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:20:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:20:49,872: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:20:49] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:20:50,106: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:20:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:22:06,193: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:22:06,194: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:22:06,196: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:22:06,197: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:22:06,240: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:22:06,240: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:22:08,279: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:22:28,899: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:22:29,104: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:22:30,770: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:22:32,008: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:22:32] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:22:32,125: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:22:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:26:20,591: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:26:41,514: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:26:41,595: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:26:42,505: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:26:44,236: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:26:44] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:26:44,914: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:26:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:27:02,421: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:27:02] "POST /login HTTP/1.1" 200 -
+[2021-11-28 12:27:02,625: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:27:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:27:24,237: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:27:24] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:27:24,477: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:27:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:27:49,011: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:27:49,012: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:27:49,013: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:27:49,013: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:27:49,018: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:27:49,018: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:27:49,019: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:27:49,020: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:27:51,450: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:28:18,322: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:28:18,432: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:28:19,406: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:28:20,827: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:20] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:28:21,407: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:28:49,208: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:49] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:28:49,550: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:28:57,097: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-28 12:28:57,182: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:57] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-28 12:28:57,350: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:57] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-28 12:28:57,354: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:57] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-28 12:28:57,407: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:57] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:28:57,710: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:57] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-28 12:28:58,120: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:28:58] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:29:45,498: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:29:45,500: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:29:45,501: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:29:45,503: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:29:45,505: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:29:45,506: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:29:45,507: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:29:47,367: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:30:19,903: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:30:44,058: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:30:44,153: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:30:45,827: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:30:47,097: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:30:47] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:30:47,839: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:30:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:30:55,410: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:30:55] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:30:55,716: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:30:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:31:02,118: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-28 12:31:02,164: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:31:02] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-28 12:31:02,351: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:31:02] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-28 12:31:02,373: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:31:02] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-28 12:31:02,398: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:31:02] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:31:02,654: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:31:02] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-28 12:31:03,174: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:31:03] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:32:47,154: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:32:47,157: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:32:47,159: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:32:47,159: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:32:47,160: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:32:47,161: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:32:47,162: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:32:50,412: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:34:13,140: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:34:35,957: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:34:36,024: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:34:36,752: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:34:38,534: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:34:38] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:34:39,050: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:34:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:34:47,002: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:34:47] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:34:47,287: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:34:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:35:04,876: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-28 12:35:04,932: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:35:04] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-28 12:35:05,081: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:35:05] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-28 12:35:05,121: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:35:05] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-28 12:35:05,165: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:35:05] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:35:05,394: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:35:05] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-28 12:35:06,045: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:35:06] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:36:47,274: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:36:47,275: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:36:47,280: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:36:47,281: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:36:47,282: INFO: _internal]:  * Detected change in 'c:\\users\\91992\\dlcvnlp\\cv_projects\\deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:36:47,283: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\DLCVNLP\\CV_Projects\\Deepface_facerecog\\src\\app.py', reloading
+[2021-11-28 12:36:49,203: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:37:20,359: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-11-28 12:37:43,393: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 12:37:43,468: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-11-28 12:37:44,116: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 12:37:46,021: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:46] "GET / HTTP/1.1" 200 -
+[2021-11-28 12:37:46,081: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:37:49,808: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:49] "GET /signup HTTP/1.1" 200 -
+[2021-11-28 12:37:50,191: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 12:37:55,762: ERROR: app]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2021-11-28 12:37:55,823: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:55] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+[2021-11-28 12:37:56,014: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:56] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2021-11-28 12:37:56,038: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:56] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2021-11-28 12:37:56,131: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:56] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 12:37:56,491: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:56] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2021-11-28 12:37:56,915: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 12:37:56] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2021-11-28 21:48:20,185: INFO: _internal]:  * Restarting with windowsapi reloader
+[2021-11-28 21:48:47,356: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 21:48:47,472: INFO: _internal]:  * Debugger PIN: 728-733-469
+[2021-11-28 21:48:47,587: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 21:48:56,130: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:48:56] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-11-28 21:48:56,974: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:48:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-11-28 21:49:15,906: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:49:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2021-11-28 21:49:20,750: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:49:20] "[37mGET /signup HTTP/1.1[0m" 200 -
+[2021-11-28 21:49:46,434: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+[2021-11-28 21:49:46,613: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\site-packages\\mtcnn\\__pycache__\\__init__.cpython-38.pyc', reloading
+[2021-11-28 21:49:46,622: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\site-packages\\mtcnn\\__pycache__\\mtcnn.cpython-38.pyc', reloading
+[2021-11-28 21:49:46,630: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\site-packages\\mtcnn\\exceptions\\__pycache__\\__init__.cpython-38.pyc', reloading
+[2021-11-28 21:49:46,639: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\site-packages\\mtcnn\\exceptions\\__pycache__\\invalid_image.cpython-38.pyc', reloading
+[2021-11-28 21:49:46,649: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\site-packages\\mtcnn\\network\\__pycache__\\__init__.cpython-38.pyc', reloading
+[2021-11-28 21:49:46,659: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\site-packages\\mtcnn\\network\\__pycache__\\factory.cpython-38.pyc', reloading
+[2021-11-28 21:49:46,774: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\site-packages\\keras\\engine\\__pycache__\\base_layer_v1.cpython-38.pyc', reloading
+[2021-11-28 21:49:48,654: INFO: _internal]:  * Restarting with windowsapi reloader
+[2021-11-28 21:50:09,949: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 21:50:10,028: INFO: _internal]:  * Debugger PIN: 728-733-469
+[2021-11-28 21:50:10,151: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 21:50:12,867: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:50:12] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-11-28 21:51:12,614: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Scripts\\conda-script.py', reloading
+[2021-11-28 21:51:12,944: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+[2021-11-28 21:51:12,948: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+[2021-11-28 21:51:14,571: INFO: _internal]:  * Restarting with windowsapi reloader
+[2021-11-28 21:51:32,721: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 21:51:32,788: INFO: _internal]:  * Debugger PIN: 728-733-469
+[2021-11-28 21:51:32,877: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 21:51:35,299: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:51:35] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-11-28 21:56:11,834: INFO: _internal]:  * Restarting with windowsapi reloader
+[2021-11-28 21:56:27,513: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 21:56:27,591: INFO: _internal]:  * Debugger PIN: 728-733-469
+[2021-11-28 21:56:27,697: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 21:56:30,157: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:56:30] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-11-28 21:56:34,456: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:56:34] "[37mGET /signup HTTP/1.1[0m" 200 -
+[2021-11-28 21:57:09,060: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\anaconda3\\Lib\\encodings\\__pycache__\\ascii.cpython-38.pyc', reloading
+[2021-11-28 21:57:10,979: INFO: _internal]:  * Restarting with windowsapi reloader
+[2021-11-28 21:57:30,020: WARNING: _internal]:  * Debugger is active!
+[2021-11-28 21:57:30,108: INFO: _internal]:  * Debugger PIN: 728-733-469
+[2021-11-28 21:57:30,250: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-11-28 21:57:32,755: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:57:32] "[37mGET / HTTP/1.1[0m" 200 -
+[2021-11-28 21:57:42,665: INFO: _internal]: 127.0.0.1 - - [28/Nov/2021 21:57:42] "[37mGET /signup HTTP/1.1[0m" 200 -
+[2021-12-01 20:33:36,318: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-12-01 20:33:51,194: WARNING: _internal]:  * Debugger is active!
+[2021-12-01 20:33:51,321: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-12-01 20:33:52,465: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-12-01 20:33:54,112: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:33:54] "GET / HTTP/1.1" 200 -
+[2021-12-01 20:33:54,565: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:33:54] "GET /static/css/style.css HTTP/1.1" 200 -
+[2021-12-01 20:33:55,871: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:33:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2021-12-01 20:33:58,937: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:33:58] "GET /signup HTTP/1.1" 200 -
+[2021-12-01 20:33:59,170: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:33:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:34:43,804: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\tensorflow\\python\\keras\\engine\\training.py', reloading
+[2021-12-01 20:34:47,776: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-12-01 20:35:05,309: WARNING: _internal]:  * Debugger is active!
+[2021-12-01 20:35:05,401: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-12-01 20:35:06,360: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-12-01 20:35:07,802: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:35:07] "GET / HTTP/1.1" 200 -
+[2021-12-01 20:35:08,095: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:35:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:35:36,237: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:35:36] "GET /signup HTTP/1.1" 200 -
+[2021-12-01 20:35:36,371: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:35:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:35:39,347: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:35:39] "GET / HTTP/1.1" 200 -
+[2021-12-01 20:35:39,450: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:35:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:35:47,874: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:35:47] "POST /login HTTP/1.1" 200 -
+[2021-12-01 20:35:48,031: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:35:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:36:08,423: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:36:08] "GET /signup HTTP/1.1" 200 -
+[2021-12-01 20:36:08,551: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:36:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:36:49,503: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-12-01 20:37:06,612: WARNING: _internal]:  * Debugger is active!
+[2021-12-01 20:37:06,687: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-12-01 20:37:07,278: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-12-01 20:37:08,922: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:37:08] "GET / HTTP/1.1" 200 -
+[2021-12-01 20:37:09,026: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:37:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:37:19,168: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:37:19] "GET /signup HTTP/1.1" 200 -
+[2021-12-01 20:37:19,285: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:37:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:37:26,501: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:37:26] "GET /login HTTP/1.1" 200 -
+[2021-12-01 20:37:26,585: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:37:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:37:30,763: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:37:30] "GET /signup HTTP/1.1" 200 -
+[2021-12-01 20:37:30,875: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:37:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2021-12-01 20:39:55,322: INFO: generate_embeddings]: >>> Storing Embeddings
+[2021-12-01 20:39:55,339: INFO: store_embeddings]: >>>> Creating index
+[2021-12-01 20:39:55,340: INFO: store_embeddings]: Index created >>>
+[2021-12-01 20:39:55,341: INFO: store_embeddings]: Index number: 4
+[2021-12-01 20:39:59,474: WARNING: base]: PUT http://localhost:9200/face_recognition/_create/4 [status:N/A request:4.132s]
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 170, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\elasticsearch\connection\http_urllib3.py", line 246, in perform_request
+    method, url, body, retries=Retry(False), headers=request_headers, **kw
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 756, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\util\retry.py", line 507, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 706, in urlopen
+    chunked=chunked,
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1252, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1298, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1247, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\http\client.py", line 966, in send
+    self.connect()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\91992\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\connection.py", line 182, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000023EC1236B88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+[2021-12-01 20:39:59,619: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\elasticsearch\\connection\\http_urllib3.py', reloading
+[2021-12-01 20:39:59,864: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+[2021-12-01 20:39:59,866: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+[2021-12-01 20:39:59,868: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\urllib3\\packages\\six.py', reloading
+[2021-12-01 20:39:59,869: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\urllib3\\connection.py', reloading
+[2021-12-01 20:39:59,870: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\http\\client.py', reloading
+[2021-12-01 20:39:59,871: INFO: _internal]:  * Detected change in 'C:\\Users\\91992\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\urllib3\\util\\connection.py', reloading
+[2021-12-01 20:40:01,945: INFO: _internal]:  * Restarting with watchdog (windowsapi)
+[2021-12-01 20:40:20,299: WARNING: _internal]:  * Debugger is active!
+[2021-12-01 20:40:20,408: INFO: _internal]:  * Debugger PIN: 665-011-643
+[2021-12-01 20:40:22,049: INFO: _internal]:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+[2021-12-01 20:40:23,635: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:40:23] "GET / HTTP/1.1" 200 -
+[2021-12-01 20:40:23,855: INFO: _internal]: 127.0.0.1 - - [01/Dec/2021 20:40:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
