@@ -4,7 +4,8 @@
 
 ## Introduction -:
 
-About this application
+This is an Web Application that can be used to capture the face embeddings and stores it in a local database. You can login and use your face to predict your face. More features like Emotion recognition, Gender classification and Age prediction. This application can extended to be used in Face Unlock Application.
+
 ## Signup Page
 
 ![signup_page](https://user-images.githubusercontent.com/57321948/144712760-84b97c72-8f78-43af-91ea-4079f20fc589.JPG)
